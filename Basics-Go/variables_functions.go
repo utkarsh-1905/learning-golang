@@ -1,4 +1,4 @@
-package main
+package variable_functions
 
 import (
 	"fmt"
