@@ -1,4 +1,4 @@
-package struct_functions
+package main
 
 import "fmt"
 
